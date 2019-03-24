@@ -49,13 +49,13 @@ body
 body a
 {
     text-decoration: none;
-    color: #ff1e5c;
+    color: #8797b6;
     transition: color .2s ease;
 }
 
 body a:hover
 {
-    color: #ff1e5c; 
+    color: #8797b6; 
 }
 
 body p, body pre
@@ -262,7 +262,7 @@ body .site-wrapper .sm-clean a
 
 body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-clean li.active a, body .sm-clean li.current-page-ancestor > a, body .sm-clean li.current_page_ancestor > a, body .sm-clean li.current_page_item > a
 {
-    color: #ff1e5c !important;
+    color: #8797b6 !important;
 }
 
 .sm-clean li 
@@ -956,7 +956,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 .pricing-table-title 
 {
-    background-color: #ff1e5c;
+    background-color: #8797b6;
     color: #fff;
     font-size: 24px;
     padding: 40px 0;
@@ -1594,7 +1594,7 @@ footer ul
 
 .site-wrapper .footer a:hover
 {
-    color: #ff1e5c;
+    color: #8797b6;
 }
 
 
