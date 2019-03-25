@@ -477,7 +477,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 #home
 {
-    background-image: url(images/hero_main.jpg);
+    background-image: url("images/Website_Cover-Diana.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -488,6 +488,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
     font-size: 44px;
     line-height: 60px;
     font-weight: 700;
+	color: #000000
 }
 
 
@@ -1775,7 +1776,7 @@ footer ul
     {
         position: fixed;
         text-align: center;
-        background-color: #000000;
+        background-color: #FFFFFF;
         right: -100%;
         top: 77px;
         transition: right .3s ease;
