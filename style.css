@@ -315,7 +315,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 @media (max-width: 925px) {
     .sm-clean ul
     {
-        background-color: #fff;
+        background-color: #000000;
     }
 }
 
