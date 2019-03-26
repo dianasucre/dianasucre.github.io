@@ -63,6 +63,7 @@ body p, body pre
     margin-bottom: 13px;
 }
 
+
 .site-wrapper img
 {
     max-width: 100%;
@@ -158,6 +159,7 @@ body p, body pre
     position: absolute;
     transform: translateY(-50%);
     top: 50%;
+	width: 20%;
 }
 
 .menu-holder
