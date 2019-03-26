@@ -465,12 +465,12 @@ sub
 
 .owl-theme .owl-dots .owl-dot:hover span
 {
-    background-color: #fff;
+    background-color: #3C3B3B;
 }
 
 .owl-theme .owl-dots .owl-dot.active
 {
-    border-color: #fff;
+    border-color: #8d8863;
 }
 
 .owl-theme .owl-dots .owl-dot.active span
