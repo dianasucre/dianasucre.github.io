@@ -1779,7 +1779,7 @@ footer ul
     {
         position: fixed;
         text-align: center;
-        background-color: #FFFFFF;
+        background-color: #000000;
         right: -100%;
         top: 77px;
         transition: right .3s ease;
